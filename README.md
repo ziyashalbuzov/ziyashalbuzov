@@ -1,3 +1,4 @@
+Hi, I'm Ziya. I am learning SOC analysis and blue team security.
 <p align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ziyashalbuzov)
